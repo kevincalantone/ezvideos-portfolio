@@ -2,7 +2,7 @@
 
 Site institucional e portfólio da **EZ Vídeos**, produtora audiovisual.
 
-🌐 https://www.ezvideos.com.br
+
 
 ## Sobre o site
 
