@@ -17,3 +17,9 @@ Página única com apresentação, portfólio em vídeo e contato:
 Inclui banner de cookies em conformidade com a LGPD: o Google Analytics só carrega após o visitante aceitar.
 
 ## Estrutura
+
+index.html                    página principal
+politica-de-privacidade.html  política de privacidade (LGPD)
+assets/css/                   estilos (base, componentes e seções)
+assets/js/                    scripts em módulos
+assets/img/                   logo, favicon e fotos
